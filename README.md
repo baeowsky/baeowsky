@@ -13,4 +13,4 @@
 <a href="https://discord.gg/dsc.bio/baeowsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dsc.bio/baeowsky" height="30" width="40" /></a>
 </p>
 
-![snake]([https://github.com/baeowsky/baeowsky/blob/output/github-contribution-grid-snake.gif](https://github.com/baeowsky/baeowsky/blob/output/github-contribution-grid-snake.svg)https://github.com/baeowsky/baeowsky/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/baeowsky/baeowsky/blob/output/github-contribution-grid-snake.gif](https://github.com/baeowsky/baeowsky/blob/output/github-contribution-grid-snake.svg)https://github.com/baeowsky/baeowsky/blob/output/github-contribution-grid-snake.svg)
