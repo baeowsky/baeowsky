@@ -24,6 +24,14 @@ class Developer {
         this.name = name;
         this.stack = stack;
         this.mood = "💻 shipping cool projects";
+    }
+
+    introduce() {
+        console.log(`Hey, I’m ${this.name} — your friendly full-stack dev.`);
+        console.log(`Stack: ${this.stack.join(", ")}`);
+        console.log(`Mood: ${this.mood}`);
+    }
+}
 
 const bae = new Developer(
     "bae",
@@ -35,3 +43,4 @@ const bae = new Developer(
 );
 
 bae.introduce();
+```
