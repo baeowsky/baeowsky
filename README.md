@@ -27,7 +27,7 @@ class Developer {
     }
 
     introduce() {
-        console.log(`Hey, I’m ${this.name} — your friendly full-stack dev.`);
+        console.log(`Hey, I’m ${this.name} — your full-stack dev.`);
         console.log(`Stack: ${this.stack.join(", ")}`);
         console.log(`Mood: ${this.mood}`);
     }
