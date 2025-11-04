@@ -44,3 +44,5 @@ const bae = new Developer(
 
 bae.introduce();
 ```
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=baeowsky&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
