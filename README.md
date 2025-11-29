@@ -1,5 +1,3 @@
-## ⚡ Tech Stack
-
 ![LUA](https://img.shields.io/badge/-LUA-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -17,32 +15,5 @@
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-```js
-class Developer {
-    constructor(name, stack) {
-        this.name = name;
-        this.stack = stack;
-        this.mood = "💻 shipping cool projects";
-    }
-
-    introduce() {
-        console.log(`Hey, I’m ${this.name} — your full-stack dev.`);
-        console.log(`Stack: ${this.stack.join(", ")}`);
-        console.log(`Mood: ${this.mood}`);
-    }
-}
-
-const bae = new Developer(
-    "bae",
-    [
-        "LUA", "JavaScript", "Vue.js", "CSS3", "HTML5", "React", "Python",
-        "MongoDB", "MySQL", "Amazon AWS", "Microsoft Azure", "Git", "GitHub",
-        "Node.js", "Java", "TypeScript", "Docker"
-    ]
-);
-
-bae.introduce();
-```
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=baeowsky&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
